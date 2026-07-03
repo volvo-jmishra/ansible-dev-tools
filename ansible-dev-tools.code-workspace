@@ -10,7 +10,14 @@
 			"path": "../styxxen21/Hosting-Ansible-Playbooks"
 		},
 		{
-			"path": "../volvo-cars/ucp-packages"
+			"path": "../styxxen21/Hosting-Ansible-Collections"
+		},
+		{
+			"name": "Hosting-Ansible-EE",
+			"path": "../styxxen21/Hosting-Ansible-EE"
+		},
+		{
+			"path": "../volvo-cars/Hosting-Ansible-Actions"
 		}
 	],
 	"settings": {
